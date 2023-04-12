@@ -1,4 +1,29 @@
-{
+{   
+     
+    "gui.extension.posenet2scratch.name": "자세인식",
+    "gui.extension.posenet2scratch.description": "자세를 인식해볼까요.",    
+	
+    "gui.extension.speech2scratch.name": "음성인식",
+    "gui.extension.speech2scratch.description": "음성인식을 사용해볼까요.",
+
+    "gui.extension.ic2scratchblocks.name": "이미지분류",
+    "gui.extension.ic2scratchblocks.description": "이미지를 분류해볼까요.",
+
+    "gui.extension.handpose2scratchblocks.name": "손동작인식",
+    "gui.extension.handpose2scratchblocks.description": "나의 손동작을 인식해볼까요.",
+
+    "gui.extension.facemesh2scratch.name": "얼굴인식",
+    "gui.extension.facemesh2scratch.description": "나의 얼굴 동작을 인식해볼까요.",
+
+    "gui.extension.tmpose2scratchblocks.name": "포즈인식",
+    "gui.extension.tmpose2scratchblocks.description": "나의 몸동작 포즈를 인식해볼까요.",
+
+    "gui.extension.ml2scratch.name": "머신러닝",
+    "gui.extension.ml2scratch.description": "머신러닝을 사용해볼까요.",
+
+    "gui.extension.tm2scratch.name": "티처블머신",
+    "gui.extension.tm2scratch.description": "티처블머신을 사용해볼까요.",
+
     "gui.extension.aibot.description": "AIBot과 함께 인공지능을 배워요.",
     "gui.extension.aibot.connectingMessage": "AIBot에 연결 중...",
     "gui.alerts.lostPeripheralConnection": "스크래치와 {extensionName} 사이의 연결이 끊어졌습니다.",
